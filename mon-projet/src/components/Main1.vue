@@ -5,12 +5,12 @@
       <div class="row">
         <div class="col-md-4">
           <a href="#">
-            <img class="bd-placeholder-img card-img-top" src="images/tout pour mon bebe.svg" alt="">
+            <img class="bd-placeholder-img card-img-top" src=" images/mon style nanaou.svg" alt="">
           </a>
         </div>
         <div class="col-md-4">
           <a href="#">
-            <img class="bd-placeholder-img card-img-top" src="images/mon style nanaou.svg" alt="">
+            <img class="bd-placeholder-img card-img-top" src="images/tout pour mon bebe.svg" alt="">
           </a>
         </div>
         <div class="col-md-4">

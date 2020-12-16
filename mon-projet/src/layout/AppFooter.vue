@@ -27,11 +27,13 @@
       </div>
    
       <div class="newsletter">
+      <form action="">
         <label for="news">Inscription Newsleter</label>
         <div class="news">
-          <input type="text" id="news" placeholder="votre Email">
-          <a href="">envoyer</a>
+          <input type="text"  id="news" placeholder="votre Email" required pattern="@">
+          <button type="submit">envoyer</button>
         </div>
+        </form>
       </div>
       <p class="cgu">CGV | CGU | conditions spécifiques Nanou</p>
 </div>
